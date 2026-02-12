@@ -1,0 +1,1 @@
+{\n  "name": "wechat-channel-plugin",\n  "version": "1.0.0",\n  "description": "A WeChat channel plugin for better integration.",\n  "main": "index.js",\n  "scripts": {\n    "test": "echo 'No tests specified' && exit 0"\n  },\n  "keywords": ["wechat", "plugin", "channel"],\n  "author": "lalalic",\n  "license": "ISC"\n}
